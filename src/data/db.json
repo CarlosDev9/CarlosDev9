@@ -1,0 +1,362 @@
+{
+  "blogs": [
+    {
+      "img": "https://www.blog.de/wp-content/uploads/2024/01/Internetbandbreite-berechnen.jpg",
+      "categories": [
+        "Finanz",
+        "Wirtschaft"
+      ],
+      "title": "Erleichterte Finanzierung von hochwertigen Smartphones",
+      "date": "2023-01-01",
+      "text": "Kaum eine Industrie hat in den letzten Jahren einen so gewaltigen Wandel erlebt wie die Mobilfunkbranche. Das ist nicht überraschend, denn mit dem Aufkommen des Smartphones und der weitflächigen Verfügbarkeit von mobilem Internet",
+      "author": "Alfonso",
+      "id": "350b"
+    },
+    {
+      "img": "https://www.blog.de/wp-content/uploads/2024/01/Internetbandbreite-berechnen.jpg",
+      "categories": [
+        "Finanz",
+        "Lifestyle"
+      ],
+      "title": "Tarife mit großzügigen Datenvolumina",
+      "date": "2024-05-25",
+      "text": "Zum einen erhält man das Gerät zu einem vergünstigten Preis, zum anderen kann man es in Raten abbezahlen. Die Raten sind meistens nicht an Zinsen gebunden, aber dafür an eine Mindestlaufzeit geknüpft",
+      "author": "Luis",
+      "id": "6916"
+    },
+    {
+      "img": "https://www.blog.de/wp-content/uploads/2023/12/Ab-wann-lohnt-sich-ein-TikTok-Kanal.jpg",
+      "categories": [
+        "Finanz",
+        "Wirtschaft"
+      ],
+      "title": "Vertrag statt Prepaid",
+      "date": "2024-09-12",
+      "text": "Zum einen erhält man das Gerät zu einem vergünstigten Preis, zum anderen kann man es in Raten abbezahlen. Die Raten sind meistens nicht an Zinsen gebunden, aber dafür an eine Mindestlaufzeit geknüpft",
+      "author": "Josep R.",
+      "id": "0de7"
+    },
+    {
+      "img": "https://www.blog.de/wp-content/uploads/2024/06/Erderwaermung-steigt-schneller-als-jemals-zuvor.jpg",
+      "categories": [
+        "Natur",
+        "Wirtschaft"
+      ],
+      "title": "Typische Fehler beim Baumschnitt vermeiden",
+      "date": "2024-02-18",
+      "text": "Hobbygärtner gehen entweder zu rabiat oder zu vorsichtig an die Sache. In vielen Fällen schneiden sie zu wenig ab, weil sie fürchten, die Pflanze ansonsten zu ruinieren. Dabei ist es für die Pflanze profitabler, wenn zu viel statt zu wenig abgeschnitten wird. Im schlimmsten Fall verliert lediglich die Baumkrone etwas an Form, das ist aber der einzige Schaden, der zurückbleiben könnte.",
+      "author": "Johan",
+      "id": "3a7e"
+    },
+    {
+      "img": "https://www.blog.de/wp-content/uploads/2024/09/Alpentouren-und-Ziele-mit-grandioser-Aussicht.jpg",
+      "categories": [
+        "Natur",
+        "Lifestyle"
+      ],
+      "title": "Was ist genug und ab wann ist es zu viel?",
+      "date": "2023-12-11",
+      "text": "Bäume sind wie Haare: Ein regelmäßiger Rückschnitt ist unerlässlich. Für Hobbygärtner zählen Laubbäume mit einem dichten Blätterdach zum Must-Have für einen schönen Garten. Ertragreiche Obstbäume runden das Sortiment ab und verwöhnen den Gaumen im Sommer mit Früchten aus dem eigenen Garten. Doch so schön die Vorstellung auch klingt, bringen Bäume viel Arbeit mit sich. Wer sich dieser nicht widmet, muss statt der üppigen Blätter- und Früchtepracht dürre Bäume in Kauf nehmen, die nur vereinzelt ein bisschen Obstertrag abwerfen. Die größte und zugleich wichtigste Arbeit ist der Baumschnitt, der vieles zerstören kann, wenn er nicht richtig erfolgt.",
+      "author": "Nicolae D.",
+      "id": "d070"
+    },
+    {
+      "img": "https://www.blog.de/wp-content/uploads/2024/09/Baumschnitt-ab-wann-ist-es-zu-viel.jpg",
+      "categories": [
+        "Natur",
+        "Lifestyle"
+      ],
+      "title": "Hausmittel gegen Schnecken: So wirkungsvoll ist Kaffeesatz",
+      "date": "2020-10-01",
+      "text": "Bäume sind wie Haare: Ein regelmäßiger Rückschnitt ist unerlässlich. Für Hobbygärtner zählen Laubbäume mit einem dichten Blätterdach zum Must-Have für einen schönen Garten. Ertragreiche Obstbäume runden das Sortiment ab und verwöhnen den Gaumen im Sommer mit Früchten aus dem eigenen Garten. Doch so schön die Vorstellung auch klingt, bringen Bäume viel Arbeit mit sich. Wer sich dieser nicht widmet, muss statt der üppigen Blätter- und Früchtepracht dürre Bäume in Kauf nehmen, die nur vereinzelt ein bisschen Obstertrag abwerfen. Die größte und zugleich wichtigste Arbeit ist der Baumschnitt, der vieles zerstören kann, wenn er nicht richtig erfolgt.",
+      "author": "Johan J.",
+      "id": "c7a3"
+    },
+    {
+      "img": "https://www.blog.de/wp-content/uploads/2024/07/AI-Bilder-generieren.jpg",
+      "categories": [
+        "Internet",
+        "Technik"
+      ],
+      "title": "AI-Bilder generieren: Die besten Programme",
+      "date": "2021-04-22",
+      "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdi",
+      "author": "Johan",
+      "id": "cbf8"
+    },
+    {
+      "img": "https://www.blog.de/wp-content/uploads/2024/09/Thrill-Walk-auf-dem-Schilthorn.jpg",
+      "categories": [
+        "Natur",
+        "Lifestyle"
+      ],
+      "title": "Seen-Wanderung in der Schweiz",
+      "date": "2021-04-22",
+      "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer",
+      "author": "Johan L.",
+      "id": "d359"
+    },
+    {
+      "img": "https://www.blog.de/wp-content/uploads/2024/04/Ordnung-im-E-Mail-Postfach.jpg",
+      "categories": [
+        "Internet",
+        "Lifestyle"
+      ],
+      "title": "Ordnung im E-Mail-Postfach: Darauf kommt es an",
+      "date": "2022-06-15",
+      "text": "Während der Minimalismus-Trend in immer mehr deutschen Wohnungen Einzug hält, sieht das in Sachen E-Mails häufig noch ganz anders aus. Den Kleiderschrank auszumisten, alte Postkarten zu entsorgen oder die Gewürzsammlung radikal auszusortieren: Während das Ordnung schaffen im eigenen zu Hause schnell zu sichtbaren Erfolgen führt, gehen die meisten eher nachlässig.",
+      "author": "Johan",
+      "id": "98b9"
+    },
+    {
+      "img": "https://www.blog.de/wp-content/uploads/2024/08/Huelsenfruechte-ohne-Blaehungen-geniessen.jpg",
+      "categories": [
+        "Natur",
+        "Lifestyle"
+      ],
+      "title": "Hülsenfrüchte ohne Blähungen genießen",
+      "date": "2022-11-22",
+      "text": "Einem Volksmund zufolge erzeugt „jedes Böhnchen ein Tönchen“. Doch in dieser vermeintlichen Weisheit liegt nur ein Funke an Wahrheit. Die Verträglichkeit der Hülsenfrüchte richtet sich schließlich in erster Linie nach zu der Zubereitung.",
+      "author": "Lukas O.",
+      "id": "613e"
+    },
+    {
+      "img": "https://www.blog.de/wp-content/uploads/2024/08/Die-perfekten-Moebel-fuer-das-Gaming-Paradies.jpg",
+      "categories": [
+        "Internet",
+        "Lifestyle"
+      ],
+      "title": "Die perfekten Möbel für das Gaming-Paradies",
+      "date": "2024-05-02",
+      "text": "Wer am liebsten jede freie Minute mit Online Games verbringt, weiß gewiss genau, welch wichtige Rolle bequeme Möbel spielen. Doch welches Mobiliar darf in einem Gaming-Zimmer auf keinen Fall fehlen? Hohe Ansprüche an Gaming-Möbel Stundenlanges Online-Vergnügen bereitet zwar viel Freude, ist jedoch nicht unbedingt förderlich für die Gesundheit.",
+      "author": "Alfonso P.",
+      "id": "a18e"
+    },
+    {
+      "img": "https://www.blog.de/wp-content/uploads/2024/06/Sicherheit-auf-zwei-Raedern.jpg",
+      "categories": [
+        "Lifestyle",
+        "Wirtschaft"
+      ],
+      "title": "Sicherheit auf zwei Rädern: Die wichtigsten Tipps und Tricks",
+      "date": "2024-02-28",
+      "text": "Viele Menschen empfinden beim Motorradfahren ein Gefühl von Freiheit. Fahrten auf zwei Rädern wecken die Abenteuerlust, sind jedoch auch wesentlich gefährlicher als im Auto. Motorradfahrern mangelt es nicht nur an dem nötigen Schutz. Zudem können die Zweiradfahrer schnell übersehen werden. Statistisch betrachtet ist das Risiko, bei einem Motorradunfall zu versterbe",
+      "author": "Alex V.",
+      "id": "a95c"
+    },
+    {
+      "img": "https://www.blog.de/wp-content/uploads/2024/07/Schlaf-besser-nachholen-oder-vorschlafen.jpg",
+      "categories": [
+        "Natur",
+        "Lifestyle"
+      ],
+      "title": "Schlaf besser nachholen oder vorschlafen?",
+      "date": "2023-10-01",
+      "text": "Ausreichend Schlaf dient unserer Gesundheit und ist lebenswichtig. Doch es gelingt nicht immer, die empfohlene Anzahl an Schlafstunden zu erreichen. Doch ist es in dieser Situation besser, Schlaf nachzuholen oder eher vorzuschlafen? Kein Schutz vor schlechten Nächten Nur die wenigsten Menschen sind vor schlechten Nächten gefeit.",
+      "author": "Tilo k.",
+      "id": "6154"
+    },
+    {
+      "img": "https://www.blog.de/wp-content/uploads/2023/11/Glasfaserumbau.jpg",
+      "categories": [
+        "Internet",
+        "Technik"
+      ],
+      "title": "Glasfaserumbau: Ist ein Umstieg erforderlich?",
+      "date": "2021-04-22",
+      "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer",
+      "author": "Thomas S.",
+      "id": "19c7"
+    },
+    {
+      "img": "https://www.blog.de/wp-content/uploads/2024/09/Avocado-Allergie-oder-Unvertraeglichkeit.jpg",
+      "categories": [
+        "Natur",
+        "Lifestyle"
+      ],
+      "title": "Avocado Allergie oder Unverträglichkeit: Wo liegt der Unterschied?",
+      "date": "2023-08-28",
+      "text": "Wer eine Avocado nicht verträgt, kann entweder an einer Allergie oder an einer Unverträglichkeit leiden. Beides hat eigene Ursachen und Symptome. Eine Unverträglichkeit kann durch eine Ernährungsberatung diagnostiziert werden. Magenschmerzen, Verdauungsprobleme, Übelkeit und Juckreiz können damit beseitigt werden. Auch mögliche Kreuzreaktionen sind zu erkennen. ",
+      "author": "Sven",
+      "id": "b657"
+    },
+    {
+      "img": "https://www.blog.de/wp-content/uploads/2023/07/Wie-nachhaltig-sind-gebrauchte-Laptops.jpg",
+      "categories": [
+        "Technik",
+        "Wirtschaft"
+      ],
+      "title": "Wie nachhaltig sind gebrauchte Laptops?",
+      "date": "2024-010-01",
+      "text": "In der heutigen Welt steht das Konzept der Nachhaltigkeit im Mittelpunkt vieler Diskussionen und Überlegungen, besonders im Kontext der Produktion und Verwendung von Technologie. Der hohe Ressourcenverbrauch und die zunehmende Elektronikabfall-Problematik stellen erhebliche Herausforderungen für die Gesellschaft und die Umwelt dar. Innerhalb dieses Kontexts nimmt der Laptop eine besondere Rolle",
+      "author": "Andreas",
+      "id": "ab07"
+    },
+    {
+      "img": "https://www.blog.de/wp-content/uploads/2024/09/Viertausender-mit-Schneehaube.jpg",
+      "categories": [
+        "Natur"
+      ],
+      "title": "Das Schweizer Matterhorn und sein kleiner Bruder Gornergrat",
+      "date": "2021-04-22",
+      "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend",
+      "author": "Oliver",
+      "id": "b66e"
+    },
+    {
+      "img": "https://www.blog.de/wp-content/uploads/2024/01/Wetterdienste-durch-KI.jpg",
+      "categories": [
+        "Natur",
+        "Technik"
+      ],
+      "title": "Wetterdienste: Zukünftige Prognosen durch KI?",
+      "date": "2022-01-31",
+      "text": "Preiswerter, genauer und schneller: Mit diesen Attributen preist Google sein Produkt „Graphcast“ an. Dahinter verbirgt sich eine Künstliche Intelligenz, die mittelfristige Wettervorhersagen mit „beispielloser Genauigkeit“ erstellen soll. Schnellere Wetterprognosen Wie Mitarbeiter des Graphcast-Forschungsteams betonen, warnt die neue KI deutlich zeitiger vor extremen Wetterereignissen.",
+      "author": "Johan",
+      "id": "9c3c"
+    },
+    {
+      "img": "https://www.blog.de/wp-content/uploads/2024/05/Die-haeufigsten-Reparaturen-am-Auto.jpg",
+      "categories": [
+        "Technik",
+        "Finanz"
+      ],
+      "title": "Die häufigsten Reparaturen am Auto",
+      "date": "2023-03-21",
+      "text": "Keine Maschinen sind für die Ewigkeit gebaut – Autos auch nicht. Fahrzeuge besitzen komplexe Mechaniken mit einer großen Anzahl beweglicher Teile, die Verschleiß, hohen Belastungen und extremen Witterungsbedingungen ausgesetzt sind. Im Laufe der Zeit ist es unabdingbar, dass einzelne Bauteile ausgetauscht, Flüssigkeiten erneuert oder andere Komponenten neu eingestellt werden",
+      "id": "1523"
+    },
+    {
+      "img": "https://www.blog.de/wp-content/uploads/2024/07/Leimfallen-fuer-eine-optimale-Kirschernte.jpg",
+      "categories": [
+        "Natur",
+        "Lifestyle"
+      ],
+      "title": "Leimfallen für eine optimale Kirschernte",
+      "date": "2021-04-22",
+      "text": "Verfärben sich Kirschen am Baum von Gelb auf Gelbrot, werden Kirschfruchtfliegen aktiv. Die Insekten legen ihre Eier in den Früchten ab. Aus den Eiern schlüpfen Früchte, die damit die Ernte vernichten. Dann müssen Gartenbesitzer schnell reagieren. zum Must-Have für einen schönen Garten. Ertragreiche Obstbäume runden das Sortiment ab und verwöhnen den Gaumen im Sommer mit Früchten aus dem eigenen Garten. Doch so schön die Vorstellung auch klingt, bringen Bäume viel Arbeit mit sich. Wer sich dieser nicht widmet, muss statt der üppigen Blätter- und Früchtepracht dürre Bäume in Kauf nehmen, die nur vereinzelt ein bisschen Obstertrag abwerfen. Die größte und zugleich wichtigste Arbeit ist der Baumschnitt, der vieles zerstören kann, wenn er nicht richtig erfolgt.",
+      "author": "Josep",
+      "id": "99b7"
+    },
+    {
+      "img": "https://www.blog.de/wp-content/uploads/2024/06/Tipps-fuer-eine-optimale-Nutzung-von-Elektroautos.jpg",
+      "categories": [
+        "Technik",
+        "Wirtschaft"
+      ],
+      "title": "Tipps für eine optimale Nutzung von Elektroautos",
+      "date": "2024-06-06",
+      "text": "Einfach den Akku aufladen und losfahren: Wer mit einem Elektroauto entspannte Fahrten genießen möchte, sollte die wichtigsten Tipps zur Nutzung von Elektrofahrzeugen beherzigen. Damit steht einer unbeschwerten Fahrt nichts mehr im Wege. Individueller Verbrauch von Elektroautos Eine clevere Ladestrategie ist für eine entspannte Fahrt mit dem Elektroauto unerlässlich",
+      "author": "Alfredo",
+      "id": "12c9"
+    }
+  ],
+  "comments": [
+    {
+      "id": "8d24",
+      "text": "rferefer",
+      "author": "Usuario",
+      "blogId": "350b"
+    },
+    {
+      "id": "482c",
+      "text": "tzdhtzhtz",
+      "author": "carlos",
+      "blogId": null
+    },
+    {
+      "id": "d091",
+      "text": "sdfsdfsd",
+      "author": "carlos",
+      "blogId": 6916
+    },
+    {
+      "id": "6728",
+      "text": "feraer",
+      "author": "carlos",
+      "blogId": 6916
+    },
+    {
+      "id": "c7a3",
+      "text": "kakakaka",
+      "author": "carlos",
+      "blogId": "5912"
+    },
+    {
+      "id": "273a",
+      "text": "fgfdhfghfg",
+      "author": "carlos",
+      "blogId": null
+    },
+    {
+      "id": "cc67",
+      "text": "gtrsgtrs",
+      "author": "carlos",
+      "blogId": "c7a3"
+    },
+    {
+      "id": "4c00",
+      "text": "laplfpealrfpearlfpaelrfpalerfpalerpf",
+      "author": "paco",
+      "blogId": "c7a3"
+    },
+    {
+      "id": "48b4",
+      "text": "erhgrtrtgrt",
+      "author": "carlos",
+      "blogId": "cbf8"
+    },
+    {
+      "id": "1b6f",
+      "text": "ferferfer",
+      "author": "paco",
+      "blogId": "cbf8"
+    },
+    {
+      "text": "prima sehr schön",
+      "id": "483f"
+    },
+    {
+      "text": "genial cool",
+      "id": "9793"
+    },
+    {
+      "id": "e67e",
+      "text": "me gusta",
+      "author": "carlos",
+      "blogId": "d359"
+    }
+  ],
+  "users": [
+    {
+      "username": "usuario",
+      "password": "contraseña",
+      "id": "895b"
+    },
+    {
+      "id": "a4a5",
+      "username": "pepe",
+      "password": "123"
+    },
+    {
+      "id": "bec1",
+      "username": "paco",
+      "password": "123"
+    },
+    {
+      "id": "9839",
+      "username": "carlos",
+      "password": "123"
+    },
+    {
+      "id": "e705",
+      "username": "a",
+      "password": "1"
+    },
+    {
+      "id": "5e86",
+      "username": "q",
+      "password": "1"
+    }
+  ]
+}
