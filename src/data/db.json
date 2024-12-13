@@ -325,6 +325,18 @@
       "text": "me gusta",
       "author": "carlos",
       "blogId": "d359"
+    },
+    {
+      "id": "f948",
+      "text": "aferferf",
+      "author": "raferear",
+      "blogId": "cbf8"
+    },
+    {
+      "id": "0044",
+      "text": "ttttt",
+      "author": "t",
+      "blogId": "1523"
     }
   ],
   "users": [
@@ -357,6 +369,16 @@
       "id": "5e86",
       "username": "q",
       "password": "1"
+    },
+    {
+      "id": "3b81",
+      "username": "raferear",
+      "password": "asdxas"
+    },
+    {
+      "id": "4e65",
+      "username": "t",
+      "password": "nnn"
     }
   ]
 }

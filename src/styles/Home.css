@@ -73,6 +73,14 @@
     background-color: rgba(96, 206, 253, 0.837);
   }
 
+  .error-message-container {
+    height: 100vh;
+  }
+
+  .blog-not-found {
+    margin-top: 100px;
+  }
+
   @media screen and (max-width: 768px) {
     /* .home {
        width: 100%;
