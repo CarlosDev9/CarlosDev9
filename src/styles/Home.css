@@ -47,8 +47,6 @@
   justify-content: center;
   }
 
-
-
   .category input[type="checkbox"] {
     display: none;
     visibility: hidden;
@@ -71,6 +69,10 @@
    .category input[type=checkbox]:checked + label {
     color: #fff;
     background-color: rgba(96, 206, 253, 0.837);
+  }
+
+  .category label:hover {
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   }
 
   .error-message-container {
@@ -107,6 +109,11 @@
       padding: 10px 8px;
       margin-left: 0;
     }
+
+    .category label:hover {
+      background-color: rgba(96, 206, 253, 0.2);
+    }
+
   }
 
   @media screen and (max-width: 1024px) {

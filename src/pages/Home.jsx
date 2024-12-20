@@ -3,7 +3,6 @@ import { useState, useEffect } from "react";
 import Pagination from "../components/Pagination";
 import "../styles/Home.css";
 import Kategorie from "../components/Kategorie";
-// import Kategories from '../components/Kategories';
 
 function Home() {
   const [blogs, setBlogs] = useState(null);
@@ -39,16 +38,20 @@ function Home() {
 
   // Blogs nach ausgewählten Kategorien filtern
   const filteredBlogs = blogs
-      ? blogs.filter(blog =>
-           // Filtern nach Kategorien und Titel in der Suchleiste
-        (selectedCategories.length === 0 || blog.categories.some(category => selectedCategories.includes(category))) &&
-        blog.title.toLowerCase().includes(searchTerm.toLowerCase()) // Nach Suchbegriff filtern
-        )
-      : [];
+    ? blogs.filter(
+        (blog) =>
+          // Filtern nach Kategorien und Titel in der Suchleiste
+          (selectedCategories.length === 0 ||
+            blog.categories.some((category) =>
+              selectedCategories.includes(category)
+            )) &&
+          blog.title.toLowerCase().includes(searchTerm.toLowerCase()) // Nach Suchbegriff filtern
+      )
+    : [];
 
   // Aktuelle Blogs auf der Seite
   const indexOfLastBlog = currentPage * blogsPerPage; //Berechnet den Index des letzten Blogs, der auf der aktuellen Seite erscheinen soll
-  const indexOfFirstBlog = indexOfLastBlog - blogsPerPage; //Berechnet den Index des ersten Blogs, der auf der aktuellen Seite erscheinen 
+  const indexOfFirstBlog = indexOfLastBlog - blogsPerPage; //Berechnet den Index des ersten Blogs, der auf der aktuellen Seite erscheinen
   const currentBlogs = filteredBlogs.slice(indexOfFirstBlog, indexOfLastBlog);
 
   // Verwaltung ausgewählter Kategorien
@@ -79,39 +82,38 @@ function Home() {
       </div>
 
       {/* Filter Kategorien */}
-     
+
       <div className="filter">
-      <Kategorie
-        id='technik'
-        categorieName='Technik'
-        handleCategoryChange={handleCategoryChange}
-        arrayCategorie={selectedCategories.includes("Technik")}
-      />
-      <Kategorie
-        id='lifestyle'
-        categorieName='Lifestyle'
-        handleCategoryChange={handleCategoryChange}
-        arrayCategorie={selectedCategories.includes("Lifestyle")}
-      />
-       <Kategorie
-        id='wirtschaft'
-        categorieName='Wirtschaft'
-        handleCategoryChange={handleCategoryChange}
-        arrayCategorie={selectedCategories.includes("Wirtschaft")}
-      />
-       <Kategorie
-        id='natur'
-        categorieName='Natur'
-        handleCategoryChange={handleCategoryChange}
-        arrayCategorie={selectedCategories.includes("Natur")}
-      />
-       <Kategorie
-        id='internet'
-        categorieName='Internet'
-        handleCategoryChange={handleCategoryChange}
-        arrayCategorie={selectedCategories.includes("Internet")}
-      />
-       
+        <Kategorie
+          id="technik"
+          categorieName="Technik"
+          handleCategoryChange={handleCategoryChange}
+          arrayCategorie={selectedCategories.includes("Technik")}
+        />
+        <Kategorie
+          id="lifestyle"
+          categorieName="Lifestyle"
+          handleCategoryChange={handleCategoryChange}
+          arrayCategorie={selectedCategories.includes("Lifestyle")}
+        />
+        <Kategorie
+          id="wirtschaft"
+          categorieName="Wirtschaft"
+          handleCategoryChange={handleCategoryChange}
+          arrayCategorie={selectedCategories.includes("Wirtschaft")}
+        />
+        <Kategorie
+          id="natur"
+          categorieName="Natur"
+          handleCategoryChange={handleCategoryChange}
+          arrayCategorie={selectedCategories.includes("Natur")}
+        />
+        <Kategorie
+          id="internet"
+          categorieName="Internet"
+          handleCategoryChange={handleCategoryChange}
+          arrayCategorie={selectedCategories.includes("Internet")}
+        />
       </div>
 
       {/* Gefilterte Blogs anzeigen */}
@@ -123,7 +125,9 @@ function Home() {
             <BlogList blogs={currentBlogs} />
           ) : (
             <div className="error-message-container">
-              <h2 className="blog-not-found">Es wurden keine Blogs mit diesem Begriff gefunden.</h2>
+              <h2 className="blog-not-found">
+                Es wurden keine Blogs mit diesem Begriff gefunden.
+              </h2>
             </div>
           )}
           {/* <BlogList blogs={currentBlogs} /> */}
