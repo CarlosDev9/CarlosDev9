@@ -19,6 +19,8 @@ Server Starten
 
 ### `npx json-server --watch src/data/db.json --port 8000  `
 
+Startet den Testserver mit dem NPM-Paket json-server, das als Datenbank für die Artikel und Kommentare dient
+
 ***********************************************************************************
 
 ### `npm test`
