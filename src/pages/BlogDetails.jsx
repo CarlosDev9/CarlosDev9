@@ -115,7 +115,7 @@ function BlogDetails() {
   return (
     <div className="blog-details">
       <div className="blog-container">
-        {isLoading && <div>Loading...</div>}
+        {isLoading && <div className="loading">Loading...</div>}
         {error && <div>{error}</div>}
         {blog && (
           //Blog Details
