@@ -14,7 +14,7 @@ function Home() {
   const [searchTerm, setSearchTerm] = useState(""); // State für die Suchleiste
 
   useEffect(() => {
-    fetch("http://localhost:8000/blogs?_sort=date&_order=asc")
+    fetch("https://json-server-i8eu.onrender.com/blogs?_sort=date&_order=asc")
       .then((res) => {
         if (!res.ok) {
           throw Error("Fehler beim Laden");
