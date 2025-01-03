@@ -15,7 +15,7 @@ function UserAuth({ onLogin, onLogout, isLoggedIn, username }) {
     if(newUser.username==='' || newUser.password===''){
       alert('Bitte füllen Sie alle Felder')
     }else{
-      fetch('http://localhost:8000/users')
+      fetch('https://json-server-i8eu.onrender.com/users')
       .then(res => res.json())
       .then(users => {
         const userExists = users.some(user => user.username === newUser.username);
@@ -24,7 +24,7 @@ function UserAuth({ onLogin, onLogout, isLoggedIn, username }) {
           setIsSuccessMessage(false); 
         } else {
           // Neuer Benutzer registrieren
-          fetch('http://localhost:8000/users', {
+          fetch('https://json-server-i8eu.onrender.com/users', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify(newUser),
@@ -45,7 +45,7 @@ function UserAuth({ onLogin, onLogout, isLoggedIn, username }) {
 
   // Anmeldefunktion
   const handleLogin = () => {
-    fetch('http://localhost:8000/users')
+    fetch('https://json-server-i8eu.onrender.com/users')
       .then(res => res.json())
       .then(users => {
         const user = users.find(

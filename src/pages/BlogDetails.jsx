@@ -17,7 +17,7 @@ function BlogDetails() {
 
   // Detail Seite über die ID laden
   useEffect(() => {
-    fetch(`http://localhost:8000/blogs/${id}`)
+    fetch(`https://json-server-i8eu.onrender.com/blogs/${id}`)
       .then((res) => res.json())
       .then((data) => {
         setBlog(data);
@@ -30,7 +30,7 @@ function BlogDetails() {
       });
 
     // Fetch API Kommentare vom Server laden
-    fetch(`http://localhost:8000/comments`)
+    fetch(`https://json-server-i8eu.onrender.com/comments`)
       .then((res) => res.json())
       .then((data) => {
         const filteredComments = data.filter(
@@ -49,7 +49,7 @@ function BlogDetails() {
       blogId: id,
     };
 
-    fetch(`http://localhost:8000/comments`, {
+    fetch(`https://json-server-i8eu.onrender.com/comments`, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
@@ -66,7 +66,7 @@ function BlogDetails() {
 
   // Löschen und Bearbeiten von Kommentaren über die API
   const handleDeleteComment = (commentId) => {
-    fetch(`http://localhost:8000/comments/${commentId}`, {
+    fetch(`https://json-server-i8eu.onrender.com/comments/${commentId}`, {
       method: "DELETE",
     })
       .then(() => {
@@ -80,7 +80,7 @@ function BlogDetails() {
   const handleEditComment = (commentId) => {
     const updatedComment = { text: editingCommentText };
 
-    fetch(`http://localhost:8000/comments/${commentId}`, {
+    fetch(`https://json-server-i8eu.onrender.com/comments/${commentId}`, {
       method: "PUT",
       headers: {
         "Content-Type": "application/json",
