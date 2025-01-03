@@ -117,7 +117,7 @@ function Home() {
       </div>
 
       {/* Gefilterte Blogs anzeigen */}
-      {isLoading && <div>Cargando blogs...</div>}
+      {isLoading && <div>loading blogs...</div>}
       {error && <div>{error}</div>}
       {blogs && (
         <>
